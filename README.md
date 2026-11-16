@@ -30,27 +30,6 @@
 4. Facility Details Screen
 5. About Screen
 
-## 📂 Project Structure
-
-Campus-Explorer-Flutter/
-│
-├── lib/
-│   └── main.dart
-│
-├── assets/
-├── test/
-├── android/
-├── ios/
-├── web/
-├── linux/
-├── macos/
-├── windows/
-│
-├── pubspec.yaml
-├── pubspec.lock
-└── README.md
-```
-
 ## 🎯 Learning Objectives
 
 This project demonstrates practical implementation of Flutter concepts, including:
